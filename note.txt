@@ -1,0 +1,9 @@
+Buổi 1 + 2 + 3:
+- Cài đặt nodemon
+- Cài đặt và sử dụng thư viện express 
+- sử dụng router trong express.Router
+- Sử dụng express với thuộc tính use
+
+Buổi 4:
+- sử dụng npm install body-parser để dùng được body
+- method: get, post, put, delete với postman (headers, body: sử dụng với post,put,delete)
